@@ -2,12 +2,13 @@
     {
           "authorID": 1, 
           "contentID" : 1,
-          "contentImage": "https: //images.pexels.com/photos/68672/beach-beverage-caribbean-cocktail-68672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+          "contentImage": "https://images.pexels.com/photos/68672/beach-beverage-caribbean-cocktail-68672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
           "contentTitle": "Beach Drinks",
           "contentBody": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Soluta, quos nulla impedit odio nobis vitae perspiciatis rem magni rerum! Quos nobis maxime nihil adipisci esse non blanditiis sed ipsum, autem laudantium expedita ratione velit facere voluptatibus laborum, eum sit optio fugit ? Rem dolor numquam eos a suscipit natus illum quo.",
           "views": 300,
           "comments": 22,
-          "favourited": 35
+          "favourited": 35,
+          "timestamp" : "3 days ago"
     },
     {
           "authorID": 2, 
@@ -17,7 +18,8 @@
           "contentBody": "Aenean mauris tortor, tincidunt in congue a, iaculis venenatis massa. Vestibulum sed lobortis quam. Duis vel luctus elit. Sed purus odio, pellentesque nec urna eu, facilisis porta orci.",
           "views": 2000,
           "comments": 151,
-          "favourited": 98
+          "favourited": 98,
+          "timestamp" : "1 hr ago"
     },
     {
           "authorID": 3, 
@@ -27,7 +29,8 @@
           "contentBody": "Donec euismod, enim a bibendum placerat, arcu lorem dignissim lacus, vel semper nisl velit eget mauris.",
           "views": 100,
           "comments": 11,
-          "favourited": 5
+          "favourited": 5,
+          "timestamp" : "3 mins ago"
     },
     {
           "authorID": 4, 
@@ -37,7 +40,8 @@
           "contentBody": "Vestibulum sed lobortis quam. Duis vel luctus elit. Sed purus odio, pellentesque nec urna eu, facilisis porta orci.",
           "views": 532,
           "comments": 101,
-          "favourited": 44
+          "favourited": 44,
+          "timestamp" : "5 days ago"
     },
     {
           "authorID": 5, 
@@ -47,7 +51,8 @@
           "contentBody": "Ut mollis arcu non nunc luctus cursus. Donec vitae turpis eleifend, lobortis augue nec, condimentum ante.",
           "views": 10000,
           "comments": 989,
-          "favourited": 732
+          "favourited": 732,
+          "timestamp" : "5 mons ago"
     },
     {
           "authorID": 6, 
@@ -57,7 +62,8 @@
           "contentBody": "Ut mollis arcu non nunc luctus cursus. Donec vitae turpis eleifend, lobortis augue nec, condimentum ante.",
           "views": 10,
           "comments": 0,
-          "favourited": 1
+          "favourited": 1,
+          "timestamp" : "10 mins ago"
     },
     {
           "authorID": 7, 
@@ -67,7 +73,8 @@
           "contentBody": "Donec ligula ex, sodales fringilla gravida sit amet, pretium eu nisl. Maecenas in diam orci.",
           "views": 100,
           "comments": 15,
-          "favourited": 7
+          "favourited": 7,
+          "timestamp" : "4 days ago"
     },
     {
           "authorID": 8, 
@@ -77,7 +84,8 @@
           "contentBody": "Vivamus a ligula mi. Pellentesque auctor sit amet urna sed vestibulum.",
           "views": 43,
           "comments": 21,
-          "favourited": 30
+          "favourited": 30,
+          "timestamp" : "10 days ago"
     },
     {
           "authorID": 9, 
@@ -87,7 +95,8 @@
           "contentBody": "Maecenas iaculis elit a diam lacinia, et pharetra ipsum placerat.",
           "views": 3,
           "comments": 0,
-          "favourited": 0
+          "favourited": 0,
+          "timestamp" : "1 sec ago"
     },
     {
           "authorID": 10, 
@@ -97,6 +106,7 @@
           "contentBody": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
           "views": 300,
           "comments": 255,
-          "favourited": 105
+          "favourited": 105,
+          "timestamp" : "10 hrs ago"
     }
 ]
